@@ -1,0 +1,8 @@
+/.env
+/__pycache__
+/config.py
+/dev
+/last_response.html
+/main.py
+/risks.md
+/todo.txt
